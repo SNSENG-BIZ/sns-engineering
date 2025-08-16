@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SNS Engineering Mission Statement - Electrical, Mechanical, Construction, Security Services">
+    <title>SNS Engineering | Mission Statement</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <!-- Same header/navigation as above -->
+</header>
+
+<div class="container">
+    <h1>Mission Statement</h1>
+    <p>To deliver end-to-end solutions that ensure exceptional service from our accredited professionals, dedicated to making every client’s experience seamless and stress-free.</p>
+</div>
+
+<footer>
+    <!-- Same footer as above -->
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

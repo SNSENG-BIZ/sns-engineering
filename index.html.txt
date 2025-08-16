@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SNS Engineering - Electrical, Mechanical, Construction, Security Services in South Africa">
+    <title>SNS Engineering | Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- Header & Navigation -->
+<header>
+    <nav class="container">
+        <a href="index.html"><img src="images/logo-placeholder.png" alt="SNS Engineering Logo"></a>
+        <span class="menu-toggle">&#9776;</span>
+        <ul class="nav-links">
+            <li>
+                <a href="#">About Us</a>
+                <ul class="dropdown">
+                    <li><a href="about-brand-bio.html">Brand Bio</a></li>
+                    <li><a href="about-mission.html">Mission Statement</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">What We Do</a>
+                <ul class="dropdown">
+                    <li><a href="what-we-do-electrical.html">Electrical Installments & Upgrades</a></li>
+                    <li><a href="what-we-do-solar.html">Solar & Backup Solutions</a></li>
+                    <li><a href="what-we-do-security.html">Security Systems (CCTV & IDS)</a></li>
+                    <li><a href="what-we-do-access-control.html">Access Control</a></li>
+                    <li><a href="what-we-do-automation.html">Home & Office Automation</a></li>
+                    <li><a href="what-we-do-property.html">Property Development</a></li>
+                    <li><a href="what-we-do-renovations.html">Renovations & Maintenance</a></li>
+                </ul>
+            </li>
+            <li><a href="who-we-serve.html">Who We Serve</a></li>
+            <li><a href="some-of-our-work.html">Some of Our Work</a></li>
+            <li><a href="accreditations.html">Accreditations</a></li>
+            <li><a href="blog.html">Blog</a></li>
+        </ul>
+    </nav>
+</header>
+
+<!-- Main Content -->
+<div class="container">
+    <h1>Welcome to SNS Engineering</h1>
+    <p>Your trusted partner for electrical, mechanical, construction, and security services in South Africa. Our accredited team delivers end-to-end solutions from design to commissioning.</p>
+</div>
+
+<!-- Footer -->
+<footer>
+    <p>&copy; 2025 SNS Engineering | Email: info@snse.co.za | Phone: +27 123 456 789</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SNS Engineering Blog - Electrical, Mechanical, Construction, Security Services">
+    <title>SNS Engineering | Blog</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <!-- Same header/navigation -->
+</header>
+
+<div class="container">
+    <h1>Blog</h1>
+    <p>Placeholder for blog posts. You can update this section with company news, tips, or case studies.</p>
+
+    <div class="blog-post">
+        <h2>Blog Post Title 1</h2>
+        <p>Summary of the blog post content goes here...</p>
+        <a href="#">Read More</a>
+    </div>
+
+    <div class="blog-post">
+        <h2>Blog Post Title 2</h2>
+        <p>Summary of the blog post content goes here...</p>
+        <a href="#">Read More</a>
+    </div>
+</div>
+
+<footer>
+    <!-- Same footer -->
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
